@@ -15,3 +15,5 @@ for i in my_list:
     
     else:
         print(i)
+        
+Note- The Above Code is my own Idea
